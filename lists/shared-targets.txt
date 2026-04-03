@@ -1,0 +1,210 @@
+23.98.142.160/28
+40.84.220.192/28
+23.102.140.112/28
+40.84.180.112/28
+13.66.11.96/28
+13.66.15.240/28
+13.66.19.16/28
+13.66.23.160/28
+104.210.13.112/28
+104.210.14.240/28
+104.210.15.112/28
+172.64.0.0/13
+162.158.0.0/15
+104.16.0.0/13
+140.82.112.0/20
+192.30.252.0/22
+143.55.64.0/21
+20.190.128.0/18
+40.126.0.0/18
+160.79.104.0/21
+
+
+# основные домены openai
+chatgpt.com
+openai.com
+oaistatic.com
+oaiusercontent.com
+ark.switchnotion.com
+auth0.openai.com
+challenges.cloudflare.com
+events.statsigapi.net
+segment.io
+developers.openai.com
+64.239.0.0/20
+
+# аналитика openai
+google-analytics.com
+googletagmanager.com
+gstatic.com
+googleusercontent.com
+
+# мусор для openai
+35.190.80.1
+8.6.112.0/24
+37.9.117.75
+8.47.0.0/16
+# основные хабы Lumen (для chatgpt)
+8.47.0.0/16
+8.34.0.0/15
+
+# золотая пуля (125 млн адресов)
+# 8.0.0.0/9
+
+
+# youtube
+youtube.com
+www.youtube.com
+m.youtube.com
+youtubei.googleapis.com
+youtube-nocookie.com
+youtube-ui.l.google.com
+ytimg.l.google.com
+googlevideo.com
+ytimg.com
+ggpht.com
+ytstatic.com
+consent.youtube.com
+
+# Основные хабы Google/YouTube + отдельным скриптом добавляются из https://www.gstatic.com/ipranges/goog.json
+142.250.0.0/15
+172.217.0.0/16
+173.194.0.0/16
+74.125.0.0/16
+209.85.128.0/17
+64.233.160.0/19
+66.102.0.0/20
+66.249.64.0/19
+
+#Google AI Studio
+accounts.google.com
+www.gstatic.com
+apis.google.com
+content.googleapis.com
+www.googleapis.com
+kidsmanagement-pa.googleapis.com
+kidsmanagement-pa.clients6.google.com
+aistudio.google.com
+generativelanguage.googleapis.com
+alkalimojo-pa.googleapis.com
+alkalimakersuite-pa.clients6.google.com
+people-pa.clients6.google.com
+webchannel-alkalimakersuite-pa.clients6.google.com
+199.36.153.4/30
+199.36.153.8/30
+209.85.128.0/17
+
+# Google Video (YouTube) Global Cache
+108.177.0.0/17
+
+
+# telegram - подсетки
+91.108.4.0/22
+91.108.8.0/22
+91.108.12.0/22
+91.108.16.0/22
+91.108.56.0/22
+149.154.160.0/20
+185.76.151.0/24 
+# telegram - домены
+telegram.org
+api.telegram.org
+web.telegram.org
+core.telegram.org
+dns.telegram.org
+venus.web.telegram.org
+pluto.web.telegram.org
+aurora.web.telegram.org
+vesta.web.telegram.org
+flora.web.telegram.org
+messenger.telegram.org
+mta-sts.telegram.org
+telegram.me
+t.me
+tx.me
+tdesktop.com
+telegram-cdn.org
+cdn-telegram.org
+telegram.dog
+telegra.ph
+graph.org
+telesco.pe
+tg.dev
+fragment.com
+comments.app
+quiz.directory
+contest.com
+
+docs.datahub.com
+
+#Ниже приведены ключевые подсети, используемые LinkedIn:
+#(основной диапазон для веб-сервисов)
+108.174.0.0/20
+144.2.0.0/16
+199.101.160.0/22
+216.52.242.0/23
+64.152.24.0/24
+#(европейский сегмент)
+91.225.248.0/22
+#(азиатский регион)
+103.20.92.0/22
+45.42.64.0/22 
+# Azure для LinkedIn https://ipinfo.io/150.171.22.12/json
+px.ads.linkedin.com
+150.171.16.0/20
+
+
+# kendo ui
+telerik.com
+identity.telerik.com
+nuget.telerik.com
+# подсетки сканеров OneTrust / CookieLaw
+20.54.106.120/29
+20.103.218.56/29
+# Oracle Eloqua
+129.144.0.0/12
+
+#Instagram:
+instagram.com
+157.240.0.0/16
+31.13.64.0/19
+69.63.176.0/20
+cdninstagram.com
+fbcdn.net
+147.75.208.0/20
+185.89.216.0/22
+31.13.24.0/21
+31.13.64.0/19
+31.13.96.0/19
+45.64.40.0/22
+66.220.144.0/20
+69.63.176.0/20
+69.171.224.0/19
+74.119.76.0/22
+102.132.96.0/20
+103.4.96.0/22
+129.134.0.0/16
+157.240.0.0/16
+173.252.64.0/18
+179.60.192.0/22
+185.60.216.0/22
+204.15.20.0/22
+163.70.151.0/24
+163.70.147.0/24
+
+
+docs.getxray.app
+static-us.dg.refined.site
+
+themodernsoftware.dev
+docs.datahub.com
+px.ads.linkedin.com
+tag.clearbitscripts.com
+ajax.googleapis.com
+js.hubspot.com
+js.hsadspixel.net
+js.hs-analytics.net
+js.hscollectedforms.net
+js.usemessages.com
+js.hs-banner.com
+
