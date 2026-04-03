@@ -208,3 +208,6 @@ js.hscollectedforms.net
 js.usemessages.com
 js.hs-banner.com
 
+
+# merged unique local rules from gl-mt3000 on 2026-04-03 20:57:10
+2ip.io
