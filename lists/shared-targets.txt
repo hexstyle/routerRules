@@ -207,3 +207,5 @@ js.hs-analytics.net
 js.hscollectedforms.net
 js.usemessages.com
 js.hs-banner.com
+
+2ip.ru
