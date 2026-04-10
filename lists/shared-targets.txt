@@ -209,3 +209,6 @@ js.usemessages.com
 js.hs-banner.com
 
 2ip.io
+
+# merged unique local rules from gl-router
+models.dev
