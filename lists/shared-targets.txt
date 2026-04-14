@@ -212,3 +212,6 @@ js.hs-banner.com
 
 # merged unique local rules from gl-router
 models.dev
+
+www.nuget.org
+nuget.org
