@@ -215,3 +215,5 @@ models.dev
 
 www.nuget.org
 nuget.org
+github.com
+www.github.com
