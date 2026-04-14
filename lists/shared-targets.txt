@@ -217,3 +217,5 @@ www.nuget.org
 nuget.org
 github.com
 www.github.com
+app.galileo.ai
+galileo.ai
