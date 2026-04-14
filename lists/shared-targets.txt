@@ -219,3 +219,4 @@ github.com
 www.github.com
 app.galileo.ai
 galileo.ai
+uizard.io
