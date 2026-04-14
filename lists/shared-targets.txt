@@ -426,3 +426,7 @@ www.uizard.io
 44.227.178.0/24
 44.234.108.128/25
 44.234.90.252/30
+
+
+uxpilot.ai
+www.uxpilot.ai
