@@ -415,3 +415,5 @@ www.uizard.io
 
 uxpilot.ai
 www.uxpilot.ai
+
+cdn.tsyndicate.com
