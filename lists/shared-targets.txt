@@ -417,3 +417,6 @@ uxpilot.ai
 www.uxpilot.ai
 
 cdn.tsyndicate.com
+213.152.165.54
+77.247.178.1
+109.202.100.218
