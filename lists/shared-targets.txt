@@ -420,3 +420,7 @@ cdn.tsyndicate.com
 213.152.165.54
 77.247.178.1
 109.202.100.218
+
+# merged unique local rules from asus-router
+# merged unique local rules from asus-router on 2026-06-17 18:55:48
+2ip.ru
