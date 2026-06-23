@@ -421,9 +421,6 @@ cdn.tsyndicate.com
 77.247.178.1
 109.202.100.218
 
-# merged unique local rules from asus-router
-# merged unique local rules from asus-router on 2026-06-17 18:55:48
-2ip.ru
 
 # merged unique local rules from gl-router
 openwrt.org
