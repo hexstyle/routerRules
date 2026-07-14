@@ -418,3 +418,4 @@ openwrt.org
 
 # merged unique local rules from gl-router
 scrt.link
+reddit.com
