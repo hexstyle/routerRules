@@ -16,7 +16,6 @@
 192.30.252.0/22
 143.55.64.0/21
 20.190.128.0/18
-40.126.0.0/18
 160.79.104.0/21
 
 
@@ -67,11 +66,6 @@ ytstatic.com
 consent.youtube.com
 
 # Основные хабы Google/YouTube + отдельным скриптом добавляются из https://www.gstatic.com/ipranges/goog.json
-142.250.0.0/15
-209.85.128.0/17
-64.233.160.0/19
-66.102.0.0/20
-66.249.64.0/19
 
 #Google AI Studio
 accounts.google.com
@@ -89,10 +83,8 @@ people-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 199.36.153.4/30
 199.36.153.8/30
-209.85.128.0/17
 
 # Google Video (YouTube) Global Cache
-108.177.0.0/17
 
 
 # telegram - подсетки
