@@ -415,3 +415,6 @@ cdn.tsyndicate.com
 
 # merged unique local rules from gl-router
 openwrt.org
+
+# merged unique local rules from gl-router
+scrt.link
