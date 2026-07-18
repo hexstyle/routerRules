@@ -362,3 +362,4 @@ openwrt.org
 scrt.link
 reddit.com
 rutracker.org
+rutracker.cc
