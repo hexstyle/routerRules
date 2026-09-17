@@ -371,3 +371,6 @@ rutrk.org
 2ip.ru
 
 ani.sidestore.io
+
+# merged unique local rules from asus-router
+min.io
