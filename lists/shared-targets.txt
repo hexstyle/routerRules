@@ -374,3 +374,4 @@ ani.sidestore.io
 
 # merged unique local rules from asus-router
 min.io
+vastdata.com
