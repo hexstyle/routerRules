@@ -395,3 +395,5 @@ canva.com
 
 #greenms
 10.93.0.0/16
+nc.greenms.ae
+greenms.ae
